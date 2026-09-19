@@ -1,24 +1,172 @@
-# 💫 About Me:
-👩‍💻 Software Developer | AI/ML Enthusiast | Full-Stack Explorer<br>🛠️ Building real-world projects with Python, JavaScript, React.js, Node.js & MySQL<br>🤖 Exploring Artificial Intelligence, Machine Learning & Deep Learning<br>🛡️ Creator of DeepShield — AI-powered Deepfake Detection System<br>🌱 Currently sharpening my skills in Full-Stack Development & AI/ML<br>💡 I love turning ideas → code → real working products<br>🎯 Focused on becoming a strong software & AI engineer<br>⚡ Code. Build. Break. Learn. Repeat.
+<!-- ===================== HERO ===================== -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/attu_ansari00/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiqa-ansari-a0842421a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atikaansari446@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%2300C853.svg?logo=google-chrome&logoColor=white)](https://atiqa-portfolio-rho.vercel.app/)
+# ⚡ ATIQA ANSARI ⚡
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=atiqaansari00-source&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=atiqaansari00-source&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=atiqaansari00-source&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### `SOFTWARE DEVELOPER` • `AI/ML` • `FULL-STACK`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=atiqaansari00-source&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+%E2%86%92+Breaking+%E2%86%92+Learning+%E2%86%92+Building;Python+%7C+React+%7C+Node.js+%7C+AI%2FML;Turning+Ideas+Into+Working+Products+%F0%9F%9A%80" />
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-00C853?style=for-the-badge)](https://atiqa-portfolio-rho.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiqa-ansari-a0842421a/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/attu_ansari00/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atikaansari446@gmail.com)
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=atiqaansari00-source&style=for-the-badge&color=00ffff&label=PROFILE+VIEWS"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=atiqaansari00-source&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ===================== TECH STACK ===================== -->
+
+<div align="center">
+
+## ⚡ TECH ARSENAL
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,java,php,html,css" />
+
+<br><br>
+
+### 🚀 Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,vite,bootstrap,tailwind" />
+
+<br><br>
+
+### 🤖 AI / ML / Computer Vision
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,pandas,sklearn,tensorflow" />
+
+<br><br>
+
+### 🗄️ Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+
+</div>
+
+---
+
+<!-- ===================== FEATURED PROJECT ===================== -->
+
+<div align="center">
+
+# 🛡️ FEATURED PROJECT
+
+## DEEPSHIELD AI
+
+<img src="https://img.shields.io/badge/AI-FORENSICS-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEEPFAKE-DETECTION-FF0055?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COMPUTER-VISION-7B61FF?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,flask,pytorch,mysql,opencv" />
+
+<br><br>
+
+`REAL`  ⚔️  `FAKE`
+
+<br>
+
+🔍 Image Analysis &nbsp; • &nbsp; 🤖 AI Detection &nbsp; • &nbsp; 🌡️ Heatmaps  
+<br>
+📊 Confidence Score &nbsp; • &nbsp; 🧠 Deep Learning &nbsp; • &nbsp; 🗄️ Database
+
+<br><br>
+
+<a href="https://github.com/atiqaansari00-source/DeepShield-AI-Forensic">
+<img src="https://img.shields.io/badge/🔗_VIEW_PROJECT-111111?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<div align="center">
+
+# 📊 GITHUB
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api?username=atiqaansari00-source&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=atiqaansari00-source&theme=transparent&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=atiqaansari00-source&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
+
+---
+
+<!-- ===================== ACTIVITY ===================== -->
+
+<div align="center">
+
+# 🐍 CONTRIBUTION MATRIX
+
+<br>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+<!-- ===================== CURRENTLY ===================== -->
+
+<div align="center">
+
+## 🔥 CURRENTLY BUILDING
+
+`REACT` ⚡ `NODE.JS` ⚡ `PYTHON` ⚡ `AI/ML`
+
+<br>
+
+`FULL-STACK` • `DEEP LEARNING` • `COMPUTER VISION`
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+<div align="center">
+
+# 🌐 CONNECT
+
+<br>
+
+<a href="https://atiqa-portfolio-rho.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/atiqa-ansari-a0842421a/">
+<img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="mailto:atikaansari446@gmail.com">
+<img src="https://img.shields.io/badge/📩_EMAIL-D14836?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+⚡ `CODE` &nbsp; • &nbsp; 🤖 `CREATE` &nbsp; • &nbsp; 🚀 `SHIP`
+
+</div>
